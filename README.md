@@ -1,4 +1,4 @@
-# 🌟 Namaste 🙏 | As-salamu alaykum (السلام عليكم) | Hello
+# 🌟 നമസ്കാരം 🙏 | Assalamu alaykum (السلام عليكم) | Hello
 
 ### 👨‍💻 CSE Undergraduate | 🛡️ Cybersecurity & IoT | 🚀 Future Entrepreneur
 📍 **Cannanore, Kerala, India**
