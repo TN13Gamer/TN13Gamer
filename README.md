@@ -33,7 +33,7 @@ I am a **Computer Science Engineering student** at BMS Institute of Technology a
 * CGPA:8.9(current)
 
 **🏫 Kendriya Vidyalaya**
-* *All India Senior School Certificate Examination:86.2%* *
+* *All India Senior School Certificate Examination: 86.2%* *
 ---
 
 ### 📫 Connect with Me
