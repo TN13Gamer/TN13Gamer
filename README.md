@@ -39,4 +39,3 @@ I am a **Computer Science Engineering student** at BMS Institute of Technology a
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejas-nirmal-43418032a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/___the_cockpit_lover___/)
-how to make this read me visible in my profile top as whole
