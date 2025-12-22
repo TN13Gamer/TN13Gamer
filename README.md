@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🌟 Namaste 🙏 | السلام عليكم | Hello
 
 ### 👨‍💻 CSE Undergraduate | 🛡️ Cybersecurity & IoT | 🚀 Future Entrepreneur
@@ -16,12 +18,18 @@ I am a **Computer Science Engineering student** at BMS Institute of Technology a
 ---
 
 ### 🛠 Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Video%20Editing-000000?style=flat&logo=adobe-premiere-pro&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Video%20Editing-000000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TN13Gamer&show_icons=true&theme=radical" alt="TN13Gamer's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TN13Gamer&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
 
 ---
 
@@ -30,13 +38,17 @@ I am a **Computer Science Engineering student** at BMS Institute of Technology a
 **🏫 BMS Institute of Technology and Management**
 * *BE Computer Science and Engineering*
 * Sept 2024 - Aug 2028 (Expected)
-* CGPA:8.9(current)
+* **CGPA:** 8.9 (Current)
 
 **🏫 Kendriya Vidyalaya**
-* *All India Senior School Certificate Examination: 86.2%* *
+* *All India Senior School Certificate Examination:* 86.2%
+
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejas-nirmal-43418032a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/___the_cockpit_lover___/)
-how to make this read me visible in my profile top as whole
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejas-nirmal-43418032a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___the_cockpit_lover___/)
+
+</div>
