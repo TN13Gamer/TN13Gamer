@@ -6,11 +6,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=👨‍💻+Computer+Science+Engineering+Student;🛡️+Cybersecurity+%26+IoT+Enthusiast;🎬+Video+Editor+%7C+📸+Photographer+%7C+🎮+Gamer;🚀+Future+Entrepreneur+Building+Big+Dreams"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👨‍💻+Computer+Science+Engineering+Student;🛡️+Cybersecurity+%26+IoT+Enthusiast;🎬+Video+Editor+%7C+📸+Photographer+%7C+🎮+Gamer;🚀+Future+Entrepreneur+Building+Big+Dreams"/>
 
-<br>
+<br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFhOHQ0aDZkbzB3bnQ5a3F1N2Q2aHk0a3M4ZXJrYzF3dTVjNnBzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="280"/>
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="280"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## 📝 About Me
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 I am a **Computer Science Engineering student** at **BMS Institute of Technology and Management** with a strong passion for innovation, technology, and entrepreneurship.
 
@@ -32,7 +32,7 @@ I am a **Computer Science Engineering student** at **BMS Institute of Technology
 - 🎬 Passionate about **Video Editing, Photography, and Gaming**
 - 🚀 Dreaming big and building future ventures
 
-<br><br>
+<br><br><br>
 
 ---
 
