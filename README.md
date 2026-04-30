@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000428,50:004e92,100:00c6ff&text=Thejas%20Nirmal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergraduate%20%7C%20Cybersecurity%20%26%20IoT&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Thejas%20Nirmal&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
 <br>
 
