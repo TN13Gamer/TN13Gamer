@@ -41,55 +41,23 @@ I am a **Computer Science Engineering student** at BMS Institute of Technology a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejas-nirmal-43418032a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/___the_cockpit_lover___/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://thejasnirmal.vercel.app/)
-<System.Profile>`JSON{
-  "name": "Thejas Nirmal",
-  "education": {
-    "degree": "BE Computer Science and Engineering",
-    "university": "BMS Institute of Technology and Management",
-    "expected_graduation": 2028,
-    "current_cgpa": 8.9
-  },
-  "interests": [
-    "Cybersecurity",
-    "IoT",
-    "Database Management",
-    "Web3",
-    "AI/ML"
-  ],
-  "hobbies": [
-    "Cinematic Video Editing",
-    "Photography",
-    "Competitive Gaming (Valorant, Forza Horizon 5)",
-    "Hardware Tinkering"
-  ]
-}
-🛠️ <TechStack/>⚡ whoami -> Thejas Nirmal👨‍💻 CSE Undergraduate | 🛡️ Cybersecurity & IoT | 🚀 Future EntrepreneurShelluser@thejas:~$ location --current
-📍 Cannanore, Kerala, India
-user@thejas:~$ status --current
-Building skills, developing ventures, and editing cinematic cuts.
-💻 <System.Profile>JSON{
-  "name": "Thejas Nirmal",
-  "education": {
-    "degree": "BE Computer Science and Engineering",
-    "university": "BMS Institute of Technology and Management",
-    "expected_graduation": 2028,
-    "current_cgpa": 8.9
-  },
-  "interests": [
-    "Cybersecurity",
-    "IoT",
-    "Database Management",
-    "Web3",
-    "AI/ML"
-  ],
-  "hobbies": [
-    "Cinematic Video Editing",
-    "Photography",
-    "Competitive Gaming (Valorant, Forza Horizon 5)",
-    "Hardware Tinkering"
-  ]
-}
-🛠️ <TechStack/>Markdown<div align="center">
+---
+<p align="center">
+  <i>"Simple Comfort, Pure Peace."</i><br>
+  <img src="https://komarev.com/ghpvcHere is the complete, raw Markdown code for your GitHub README. 
+
+**Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username (e.g., `thejasnirmal`) in the statistics and view counter links to make them functional.
 
 # ⚡ `whoami` -> Thejas Nirmal
 ### 👨‍💻 CSE Undergraduate | 🛡️ Cybersecurity & IoT | 🚀 Future Entrepreneur
+
+<p align="center">
+  <img src="[https://img.shields.io/badge/Status-Building_Ventures-00ff00?style=for-the-badge&logo=visual-studio-code&logoColor=white](https://img.shields.io/badge/Status-Building_Ventures-00ff00?style=for-the-badge&logo=visual-studio-code&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Location-Cannanore](https://img.shields.io/badge/Location-Cannanore), Kerala-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
+
+---
+
+### 🖥️ Terminal Session
+```bash
+user@thejas:~$ fetch --profile
