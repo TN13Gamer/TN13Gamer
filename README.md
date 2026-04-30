@@ -1,88 +1,43 @@
-````markdown
-<div align="center">
+# 🌟 നമസ്കാരം 🙏 | السلام عليكم | Hello
 
-# 🎮⚡ whoami -> Thejas Nirmal
-
-### 👨‍💻 CSE Undergraduate | 🛡️ Cybersecurity & IoT  
-### 🚀 Future Entrepreneur | 🎬 Cinematic Editor | 🎮 Competitive Gamer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=700&lines=Grinding+XP+in+Code+%26+Life...;Cybersecurity+%7C+IoT+%7C+Web3+Explorer;Building+Projects+%2B+Future+Ventures;Gaming+Hard+%2C+Editing+Harder+⚡" />
+### 👨‍💻 CSE Undergraduate | 🛡️ Cybersecurity & IoT | 🚀 Future Entrepreneur
+📍 **Cannanore, Kerala, India**
 
 ---
 
-```bash
-user@thejas:~$ whoami
-> BE CSE Student @ BMSIT&M
-> Cybersecurity & IoT Enthusiast
-> Cinematic Editor & Photographer
-> Valorant + FH5 Competitive Grinder
-> Future Startup Founder 🚀
-````
+### 📝 About Me
+I am a **Computer Science Engineering student** at BMS Institute of Technology and Management with a strong drive for innovation and lifelong learning.
+
+* 🔭 I’m currently building skills in **Python, MySQL, and C**.
+* 🌱 My interests lie in **Cybersecurity, IoT, and Database Management**.
+* 🎬 Outside of tech, I am a passionate **Video Editor, Photographer, and Gamer**.
+* 🚀 I am preparing to launch my own ventures in the future!
 
 ---
 
-## 🎯 Current Mission
-
-⚡ Building skills in **Python, MySQL, and C**
-🛡️ Exploring **Cybersecurity, IoT, AI/ML & Web3**
-🎬 Creating cinematic edits & visual storytelling
-🚀 Preparing to build impactful ventures
-
----
-
-## 🕹️ Player Stats
-
-```yaml
-Name: Thejas Nirmal
-Level: Undergraduate
-Class: Tech Explorer
-XP: 8.9 CGPA
-Server: Kerala, India 🇮🇳
-Special Ability: Turning Ideas into Reality
-```
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,linux" />
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Video%20Editing-000000?style=flat&logo=adobe-premiere-pro&logoColor=white" />
 </p>
 
 ---
 
-## 🎮 Loadout
+### 📚 Education
 
-🖥️ Competitive Gaming
-📸 Photography
-🎬 Cinematic Video Editing
-🔧 Hardware Tinkering
-🚗 Forza Horizon 5
-🎯 Valorant
+**🏫 BMS Institute of Technology and Management**
+* *BE Computer Science and Engineering*
+* Sept 2024 - Aug 2028 (Expected)
+* **CGPA:** 8.9 (Current)
 
----
-
-## 📡 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/thejas-nirmal-43418032a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/___the_cockpit_lover___/">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="https://thejasnirmal.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+**🏫 Kendriya Vidyalaya**
+* *All India Senior School Certificate Examination: 86.2%*
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-### ⚡ “Play Hard. Build Harder.”
-
-</div>
-```
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejas-nirmal-43418032a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/___the_cockpit_lover___/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://thejasnirmal.vercel.app/)
