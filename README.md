@@ -26,7 +26,7 @@ Web3
 AI/ML
 
 user@thejas:~$ status
-Building skills, launching ideas, and creating cinematic edits.
+Building skills, launching ventures, and creating cinematic edits.
 ````
 
 ---
@@ -56,11 +56,11 @@ Building skills, launching ideas, and creating cinematic edits.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thejas Nirmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThejasNirmal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Thejas Nirmal&theme=tokyonight&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ThejasNirmal&theme=tokyonight&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thejas Nirmal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThejasNirmal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff0000" />
 
 </div>
 
@@ -70,7 +70,7 @@ Building skills, launching ideas, and creating cinematic edits.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thejas Nirmal&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ThejasNirmal&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff" />
 
 </div>
 
@@ -134,9 +134,7 @@ print(me.current_goal())
 
 ### ⚡ *"Code. Build. Scale. Repeat."*
 
-<img src="https://komarev.com/ghpvc/?username=Thejas Nirmal&label=Profile+Views&color=ff0000&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=ThejasNirmal&label=Profile+Views&color=ff0000&style=flat" />
 
 </div>
 ```
-
-Replace every `Thejas Nirmal` with your actual GitHub username.
