@@ -16,7 +16,6 @@
 
 ---
 
-## 👨‍💻 CSE Undergraduate | 🛡️ Cybersecurity & IoT | 🚀 Future Entrepreneur  
 📍 **Cannanore, Kerala, India**
 
 ---
