@@ -79,7 +79,7 @@ I am a **Computer Science Engineering student** at **BMS Institute of Technology
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://thejasnirmal.vercel.app/">
+<a href="https://thejasnirmal.tech/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
