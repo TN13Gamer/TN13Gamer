@@ -63,7 +63,7 @@ I am a **Computer Science Engineering student** at **BMS Institute of Technology
 
 ### 🏫 Kendriya Vidyalaya
 - 📘 *All India Senior School Certificate Examination*
-- 🎯 **Score:** 86.2%
+- 🎯 **Score:** 86.6%
 
 ---
 
