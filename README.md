@@ -59,7 +59,7 @@ I am a **Computer Science Engineering student** at **BMS Institute of Technology
 ### 🏫 BMS Institute of Technology and Management
 - *BE Computer Science and Engineering*
 - 📅 Sept 2024 - Aug 2028 (Expected)
-- 🎯 **CGPA:** 8.9 (Current)
+- 🎯 **CGPA:** 8.76 (Current)
 
 ### 🏫 Kendriya Vidyalaya
 - 📘 *All India Senior School Certificate Examination*
